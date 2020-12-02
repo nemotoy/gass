@@ -1,5 +1,9 @@
 # gass
 
+## Env
+
+- clasp: v2.3.0
+
 ## References
 
 - [Apps Script](https://developers.google.com/apps-script/overview)
